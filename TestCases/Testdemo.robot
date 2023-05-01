@@ -35,5 +35,5 @@ wait until it checks and display error message
 
 verify error message is correct
     ${result}=  Get Text    ${Error_message_login}
-    Should Be Equal As Strings    ${result} Incorrect username/password.
+    Should Be Equal As Strings    ${result}  Incorrect username/password.
     Element Text Should Be    ${Error_message_login}    Incorrect username/password.
