@@ -6,6 +6,7 @@ Documentation    To validate login for,
 
 ##Neric 1
 #neric 2
+#ROBOT VERSION 6
 
 *** Variables ***
 ${browser}   chrome
