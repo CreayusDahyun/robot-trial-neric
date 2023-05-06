@@ -4,10 +4,6 @@ Library  SeleniumLibrary
 Documentation    To validate login for,
 ##Test Teardown    Close Browser
 
-##Neric 1
-#neric 2
-#ROBOT VERSION 6
-#name
 
 *** Variables ***
 ${browser}   chrome
